@@ -1,10 +1,10 @@
 <h1 align="left">Oi, eu sou Ryan Meneses 👋</h1>
 
-###
+
 
 <h2 align="left">E sou também estudante de Análise e Desenvolvimento de Sistemas 💻</h2>
 
-###
+
 
 <div align="center">
   <img height="150" src="https://pa1.aminoapps.com/6899/fbea9239ba3d95798c54364b3c9b378cd6e1665dr1-500-500_128.gif"  />
@@ -34,6 +34,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
 </div>
 
-![Snake animation](https://github.com/ryan-menesesdev/ryan-menesesdev/blob/output/github-contribution-grid-snake.svg)
 
-###
