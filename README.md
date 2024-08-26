@@ -2,7 +2,7 @@
 
 
 
-<h2 align="left">E sou também estudante de Análise e Desenvolvimento de Sistemas 💻</h2>
+<h2 align="left">E sou estudante de Análise e Desenvolvimento de Sistemas 💻</h2>
 
 
 
