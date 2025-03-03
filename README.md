@@ -1,10 +1,4 @@
-<h1 align="left">Oi, eu sou Ryan Meneses 👋</h1>
-
-
-
-<h2 align="left">E sou estudante de Análise e Desenvolvimento de Sistemas 💻</h2>
-
-
+<h1 align="left">Oi, eu sou Ryan 👋</h1>
 
 <div align="center">
   <img height="150" src="https://pa1.aminoapps.com/6899/fbea9239ba3d95798c54364b3c9b378cd6e1665dr1-500-500_128.gif"  />
